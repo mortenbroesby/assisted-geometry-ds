@@ -9,4 +9,5 @@ It's a mod for Don't Starve.
 I am not certain if the code contained in this project still works.
 
 Also, this project's code extends from the Steam user "zkm2erjfdb".
+
 The base concept of what this mod achieves has full credits to him.
