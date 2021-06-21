@@ -8,7 +8,8 @@ It's a mod for Don't Starve.
 ### Disclaimers: 
 - I am not certain if the code contained in this project still works.
 
-- This project's code extends work done by the Steam users "zkm2erjfdb" and "Spirits". <br/><br/>The base concept of what this mod achieves has full credits to him.
+- This project's code extends work done by the Steam users "zkm2erjfdb" and "Spirits".
+<br/><br/>The base concept of what this mod achieves has full credits to them.
 
 
 ### Links
