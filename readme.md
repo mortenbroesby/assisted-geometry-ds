@@ -12,5 +12,5 @@ It's a mod for Don't Starve.
 
 
 ### Links
-At the time of writing, the workshop link to this mod is here:
+At the time of writing, the workshop link to this mod is here:<br />
 https://steamcommunity.com/sharedfiles/filedetails/?id=286813438
