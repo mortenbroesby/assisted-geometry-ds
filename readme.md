@@ -9,3 +9,8 @@ It's a mod for Don't Starve.
 - I am not certain if the code contained in this project still works.
 
 - This project's code extends from the Steam user "zkm2erjfdb". <br /><br />The base concept of what this mod achieves has full credits to him.
+
+
+### Links
+At the time of writing, the workshop link to this mod is here:
+https://steamcommunity.com/sharedfiles/filedetails/?id=286813438
